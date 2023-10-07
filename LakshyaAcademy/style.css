@@ -1,0 +1,390 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+.logo {
+    margin: 0rem 1rem;
+}
+
+
+.navbar {
+
+
+    background-color: black;
+    color: white;
+}
+
+.navbar ul a{
+    text-decoration: none;
+}
+
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    margin: -9rem 3rem;
+    padding: 3rem 73rem;
+    list-style-type: none;
+}
+
+.navbar ul a{
+    margin: 0.5rem 4.5rem;
+    padding: 0.2rem 0.3rem;
+}
+
+.lists {
+    width: 50vw;
+    font-size: 1.7rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link{
+    color: white;
+}
+
+.btn {
+    font-size: 2rem;
+    margin: -1rem 0rem;
+    padding: 1rem 2rem;
+    background-color: #e53030;
+    color: #ffffff;
+}
+
+.container {
+    width: 100vw;
+    height: 50rem;
+    background-color: rgb(131, 57, 57);
+    color: white;
+    background-image: url(./largelogo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.container2 {
+    width: 100vw;
+    height: 50rem;
+    background-color: rgba(250, 230, 230, 0.001);
+    color: rgb(41, 40, 40);
+    font-size: 2rem;
+}
+
+.desc {
+    margin: 7rem 27rem;
+    text-align: center;
+    font-size: 5rem;
+    color: black;
+    font-weight: 800;
+
+}
+
+.desc2 {
+    margin: -5rem 33rem;
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+    font-weight: 700;
+}
+
+.boxes {
+    width: 100vw;
+    height: 84rem;
+    background-color: black;
+    color: white;
+    margin: -7rem 0rem;
+
+}
+
+.box {
+    width: 50vw;
+    height: 30rem;
+
+    margin: 7rem 15rem;
+    font-family: "Be Vietnam", Sans-serif;
+}
+
+.boximg {
+    display: flex;
+    float: right;
+    margin: 1rem 22rem;
+    padding: 1rem 7rem;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.boximg a {
+    text-decoration: none;
+    color: #a8edf6;
+}
+
+
+.para {
+    margin: 1rem 19rem;
+    font-family: "Be Vietnam", Sans-serif;
+    font-size: 87%;
+}
+
+.container3 {
+    display: flex;
+    float: right;
+    margin: -63rem 8rem;
+}
+
+.container4 {
+    width: 100vw;
+    height: 50rem;
+    background-color: aliceblue;
+}
+
+.heading {
+    text-align: center;
+    font-size: 5rem;
+    font-family: "Be Vietnam", Sans-serif;
+    color: rgb(159, 33, 33);
+
+}
+
+.para2 {
+    width: 95rem;
+    margin: 0rem 33rem;
+    font-family: "Be Vietnam", Sans-serif;
+}
+
+.btn2 {
+    font-size: 2rem;
+    margin: 0rem 60rem;
+    padding: 1rem 2rem;
+    background-color: #30e573;
+    color: #ffffff;
+
+}
+
+.container5 {
+    width: 100vw;
+    height: 50rem;
+    background-color: white;
+    color: black;
+    font-family: "Be Vietnam", Sans-serif;
+}
+
+.heading2 {
+    margin: 2rem 57rem;
+    padding: 2rem 3rem;
+}
+
+.boxx {
+    display: flex;
+    width: 100vw;
+    height: 50vh;
+
+    justify-content: space-around;
+    margin: 3rem 0rem;
+
+}
+
+.boxx1 {
+    width: 20vw;
+    height: 25rem;
+    background-color: #202121;
+    text-align: center;
+}
+
+.boxx2 {
+    width: 20vw;
+    height: 25rem;
+    background-color: #111212;
+    text-align: center;
+}
+
+.boxx3 {
+    width: 20vw;
+    height: 25rem;
+    background-color: #0dacac;
+    text-align: center;
+}
+
+.boxx4 {
+    width: 20vw;
+    height: 25rem;
+    background-color: #181a1a;
+    text-align: center;
+}
+
+.boxfeed {
+
+    width: 100vw;
+    height: 50vh;
+
+
+
+}
+
+.heading3{
+    text-align: center;
+}
+
+.boxfeed p{
+    text-align: center;
+}
+
+
+.container6{
+    margin: 3rem 3rem;
+    display: flex;
+    justify-content: space-around;
+    font-family:"Be Vietnam", Sans-serif; 
+}
+
+.box11 {
+    background-color: #e3dada;
+    width: 30vw;
+    height: 18rem;
+}
+
+.box22 {
+    
+    background-color: #e3dada;
+    width: 30vw;
+    height: 18rem;
+
+}
+
+.box33 {
+   
+    background-color: #e3dada;
+    width: 30vw;
+    height:18rem;
+}
+
+
+.boxxx{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.container8{
+    width: 100vw;
+    height: 50rem;
+    background-color: black;
+}
+
+.bx{
+    width: 88vw;
+    height: 40rem;
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 2rem 15rem;
+}
+
+.bx1{
+    width: 20vw;
+    height: 34rem;
+   
+    text-align: center;
+    margin: 2rem 2rem;
+    color: white;
+
+}
+
+.pr{
+    width: 31rem;
+    margin: 8rem 0rem;
+    font-family: 'Be Vietnam Pro';
+}
+.bx2{
+    width: 20vw;
+    height: 34rem;
+   
+    text-align: center;
+    margin: 2rem 2rem;
+    color: white;
+
+}
+
+.bx3{
+    width: 20vw;
+    height: 34rem;
+   
+    text-align: center;
+    margin: 2rem 2rem;
+    color: white;
+
+}
+
+.bx4{
+    width: 20vw;
+    height: 34rem;
+   
+    text-align: center; 
+    margin: 2rem 2rem;
+    color: white;
+
+
+}
+
+.widget-title::before {
+    content: "";
+    width: 3px;
+    height: 20px;
+    background-color: #FCA311;
+    display: inline-block;
+    margin-bottom: -3px;
+    margin-right: 8px;
+    border-radius: 2px;
+}
+
+.list1{
+    list-style-type: none;
+}
+
+
+
+.list1 li{
+    padding: 0.5em 0;
+    border-bottom: 1px solid #9898a1;
+}
+
+#block2{
+    padding: 2rem 3rem;
+    margin: 2rem -4rem;
+    width: 34rem;
+}
+
+#block3{
+    padding: 2rem 3rem;
+    margin: 2rem -1rem;
+    width: 6rem;
+}
+
+#block4{
+    width: 25rem;
+    margin: 4rem 1rem;
+}
+
+
+.footer{
+    width: 100vw;
+    height: 6rem;
+    background-color: #222020;
+    color: white;
+
+}
+
+.foot{
+    margin: 0rem 46rem;
+    padding: 2rem
+     0rem;
+    }
+
+
+#png{
+    margin: 2rem 3rem;
+}
+
